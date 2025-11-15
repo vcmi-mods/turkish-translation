@@ -1,0 +1,13 @@
+{
+	"name" : "AI translated",
+	"description" : "AI translated by Google Translate",
+	"version" : "1.0",
+	"author" : "Google Translate",
+	"contact" : "",
+	"language" : "turkish",
+	"modType" : "Translation",
+	"translations" : [
+		"config/vcmi-turkish-ai/campaigns.json",
+		"config/vcmi-turkish-ai/chronicles.json"
+	]
+}
