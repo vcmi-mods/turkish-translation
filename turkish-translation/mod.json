@@ -2,7 +2,7 @@
 	"name" : "Turkish translation",
 	"description" : "Turkish translation of Heroes of Might and Magic III: Complete Edition",
 	"version" : "1.0.2",
-	"author" : "",
+	"author" : "Erthon on Github",
 	"contact" : "https://github.com/vcmi-mods/turkish-translation",
 	"modType" : "Translation",
 	"language" : "turkish",
@@ -12,7 +12,7 @@
 	},
 	"changelog" : 
 	{
-		"1.0.2" : [ "Translated with AI" ],
+		"1.0.2" : [ "Translated campaigns.json and chronicles.json" ],
 		"1.0.1" : [ "Menu screens" ],
 		"1.0.0" : [ "Initial release based on https://forum.donanimhaber.com/heroes-of-might-and-magic-3-ve-heroes-3-hd-turkce-yamalar-final-versiyon--90932593" ]
 	},
