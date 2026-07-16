@@ -1873,7 +1873,7 @@
 	"map.neutral:0.header.description": "Kazanmak için tüm mayınları işaretlemelisiniz. Kahramanlarınız bu senaryoda 12. seviyeyle sınırlı olacak, ancak bu kampanyanın son senaryosunda en güçlü 8 kahramanınız kullanıma hazır olacak.",
 	"map.neutral:0.header.name": "Sınır Bölgeleri",
 	"map.neutral:0.monster.32.8.0.message": "Bu gnoll'lar bu çadırı korumaktan bıkmış görünüyorlar ve kısa bir tartışmanın ardından size katılmaya karar veriyorlar.",
-	"map.neutral:0.sign.9.28.0.message": "Abdul'un Kuşatma Silahı Fabrikası. İade Yok",
+	"map.neutral:0.sign.9.28.0.message": "Abdul'un Kuşatma Silahları Fabrikası. İade Yoktur.",
 	"map.neutral:0.sign.10.9.0.message": "Kraliyet Yatı - Sadece Büyükelçiler İçin!",
 	"map.neutral:0.sign.27.24.0.message": "Tatalia'nın Altıncı Tapınağı",
 	"map.neutral:0.sign.31.47.0.message": "Bataklık Perileri - Rahatsız Etmeyin",
@@ -2236,5 +2236,6 @@
 	"map.yog:4.quest.35.31.0.completed": "Aferin.  Şimdi Yargı Kılıcı'nı Orruk'un evine götür.  Karşılığında sana Dük'e vermen için Cesaret Kolyesini verecek.  İyi şanslar ve hoşça kal. ",
 	"map.yog:4.quest.35.31.0.firstVisit": "Ben Beleg.  Geleceğini söylemişlerdi.  Söz verdiğin gibi Cennet Aydınlanması Miğferi'ni getirdin mi?",
 	"map.yog:4.quest.35.35.0.completed": "Harika.  Bu eşyayı, görevi tamamladığının kanıtı olarak Winston Boragus'a götür.",
-	"map.yog:4.quest.35.35.0.firstVisit": "Sonunda. Ben Orruk. Sana bir şey olduğunu sandım. Benim için Yargı Kılıcı'nı getirdin mi?"
+	"map.yog:4.quest.35.35.0.firstVisit": "Sonunda. Ben Orruk. Sana bir şey olduğunu sandım. Benim için Yargı Kılıcı'nı getirdin mi?",
+	"campaign.good2.Good-2d.h3m.region": "Artık Erathia'nın Nighon ve Eeofol karşısında nasıl düştüğünü biliyoruz. Kelimenin tam anlamıyla Nighon Boğazı'nın altından tüneller kazıp Erathia kıyısı boyunca uzanan Cüce Tünelleri'ne sızmışlar. Şimdi onları bu tünelleri bir kez daha kullanmaya zorlamalıyız; ama bu sefer, onları Erathia topraklarından sonsuza dek sürerken kullanacakları bir kaçış rotası olarak!"
 }

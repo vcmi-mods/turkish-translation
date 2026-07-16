@@ -2268,7 +2268,7 @@
 	"map.pandora's box.sign.134.104.0.message": "Yeraltı Dünyasına giden su geçidi geçici olarak hizmet dışıdır.  İblisler gittiğinde yeniden açılacaktır.",
 	"map.pandora's box.sign.142.97.0.message": "Ogygia'ya hoş geldiniz.",
 	"map.pandora's box.town.5.5.0.name": "Lydia",
-	"map.pandora's box.town.20.37.0.name": "Ioaannina",
+	"map.pandora's box.town.20.37.0.name": "Ioannina",
 	"map.pandora's box.town.34.55.0.name": "Hania",
 	"map.pandora's box.town.36.73.0.name": "Truva",
 	"map.pandora's box.town.43.34.0.name": "Winery",
@@ -3115,5 +3115,13 @@
 	"map.xathras prize.sign.61.92.0.message": "Jakuzi güvenli değildir, mümkünse kaçının!",
 	"map.xathras prize.sign.94.68.1.message": "Meçhul Askerler Anıtı - Dokunmayınız!",
 	"map.xathras prize.town.7.105.1.name": "Xathras",
-	"map.xathras prize.town.88.25.1.name": "Sarhtax"
+	"map.xathras prize.town.88.25.1.name": "Sarhtax",
+	"map.h3demo.event.0.description": "Heroes of Might and Magic III demosuna hoş geldiniz.\n\nTüm düşmanlarınızı sekiz hafta içinde bozguna uğratmalısınız.\n\nİlk olarak kiminle savaşmak istersiniz... ölülerle mi, yoksa gömülmüş olanlarla mı?",
+	"map.h3demo.header.description": "İlk önce kiminle savaşmak istersin?  Ölülerle mi, yoksa gömülmüş olanlarla mı?",
+	"map.h3demo.header.name": "Ölüler ve Gömülüler",
+	"map.tovar's fortress (allies).guards.45.32.0.message": "Görünüşe göre Tovar hazinesinin bir kısmını pek de iyi gömememiş!",
+	"map.tovar's fortress (allies).guards.48.46.0.message": "Görünüşe göre Tovar hazinesinin bir kısmını pek de iyi gömememiş!",
+	"map.tovar's fortress (allies).guards.49.37.0.message": "Tovar'ın ayakçıları saldırıyor!",
+	"map.tovar's fortress (allies).guards.63.39.0.message": "Sarhoş bir korsan sendeleyerek sana doğru yaklaşıyor ve peltek bir sesle konuşuyor:    \"Yaa-rab-bimm... senin burada olman Tovar'ın nalları diktiği anlamına gelir, ben kaçar.\"    Adam bunu söyler söylemez sızıp kalıyor.    Etrafta kimsenin olmadığını düşünerek cesedi... yani adamın üzerini arayıp ganimetleri cebe indiriyorsun. ",
+	"map.tovar's fortress (allies).heroes.7.biography": "Dokuz denizlerin belası Korsan Logain.    En sevdiği laf şudur:    'Ya paranız ya da kollarınızla bacaklarınız; hangisi olduğu fark etmez, ikisini de almaya razıyım.' Söylemeye gerek bile yok, Logain dünyanın bu köşesindeki en zengin korsanlardan biri olarak kendine sağlam bir nam salmıştır.  "
 }
